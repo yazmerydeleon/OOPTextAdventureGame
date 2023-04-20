@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPTextAdventureGame", "OOPTextAdventureGame\OOPTextAdventureGame.csproj", "{00E66CD8-AEBC-4B1D-A3AB-FCC84A57A32F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00E66CD8-AEBC-4B1D-A3AB-FCC84A57A32F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00E66CD8-AEBC-4B1D-A3AB-FCC84A57A32F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00E66CD8-AEBC-4B1D-A3AB-FCC84A57A32F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00E66CD8-AEBC-4B1D-A3AB-FCC84A57A32F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55794861-2D57-44E6-A51E-0610CE0B3615}
+	EndGlobalSection
+EndGlobal
