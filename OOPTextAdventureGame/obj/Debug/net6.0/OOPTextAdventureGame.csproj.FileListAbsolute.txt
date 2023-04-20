@@ -1,0 +1,15 @@
+D:\GitHub\OneGameAWeek\2023-04-17\OOPTextAdventureGame\OOPTextAdventureGame\bin\Debug\net6.0\OOPTextAdventureGame.exe
+D:\GitHub\OneGameAWeek\2023-04-17\OOPTextAdventureGame\OOPTextAdventureGame\bin\Debug\net6.0\OOPTextAdventureGame.deps.json
+D:\GitHub\OneGameAWeek\2023-04-17\OOPTextAdventureGame\OOPTextAdventureGame\bin\Debug\net6.0\OOPTextAdventureGame.runtimeconfig.json
+D:\GitHub\OneGameAWeek\2023-04-17\OOPTextAdventureGame\OOPTextAdventureGame\bin\Debug\net6.0\OOPTextAdventureGame.dll
+D:\GitHub\OneGameAWeek\2023-04-17\OOPTextAdventureGame\OOPTextAdventureGame\bin\Debug\net6.0\OOPTextAdventureGame.pdb
+D:\GitHub\OneGameAWeek\2023-04-17\OOPTextAdventureGame\OOPTextAdventureGame\obj\Debug\net6.0\OOPTextAdventureGame.csproj.AssemblyReference.cache
+D:\GitHub\OneGameAWeek\2023-04-17\OOPTextAdventureGame\OOPTextAdventureGame\obj\Debug\net6.0\OOPTextAdventureGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\OneGameAWeek\2023-04-17\OOPTextAdventureGame\OOPTextAdventureGame\obj\Debug\net6.0\OOPTextAdventureGame.AssemblyInfoInputs.cache
+D:\GitHub\OneGameAWeek\2023-04-17\OOPTextAdventureGame\OOPTextAdventureGame\obj\Debug\net6.0\OOPTextAdventureGame.AssemblyInfo.cs
+D:\GitHub\OneGameAWeek\2023-04-17\OOPTextAdventureGame\OOPTextAdventureGame\obj\Debug\net6.0\OOPTextAdventureGame.csproj.CoreCompileInputs.cache
+D:\GitHub\OneGameAWeek\2023-04-17\OOPTextAdventureGame\OOPTextAdventureGame\obj\Debug\net6.0\OOPTextAdventureGame.dll
+D:\GitHub\OneGameAWeek\2023-04-17\OOPTextAdventureGame\OOPTextAdventureGame\obj\Debug\net6.0\refint\OOPTextAdventureGame.dll
+D:\GitHub\OneGameAWeek\2023-04-17\OOPTextAdventureGame\OOPTextAdventureGame\obj\Debug\net6.0\OOPTextAdventureGame.pdb
+D:\GitHub\OneGameAWeek\2023-04-17\OOPTextAdventureGame\OOPTextAdventureGame\obj\Debug\net6.0\OOPTextAdventureGame.genruntimeconfig.cache
+D:\GitHub\OneGameAWeek\2023-04-17\OOPTextAdventureGame\OOPTextAdventureGame\obj\Debug\net6.0\ref\OOPTextAdventureGame.dll
